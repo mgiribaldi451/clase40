@@ -1,0 +1,42 @@
+[
+  {
+    "id": "624b051f27c2088d28272af2",
+    "category": "celular",
+    "description": "Celular Copado",
+    "photo": "celular.png",
+    "price": 30000,
+    "title": "Samsung A31"
+  },
+  {
+    "id": "624b051f27c2088d28272af7",
+    "title": "Samsung otra prueba",
+    "price": 30000,
+    "description": "Celular Copado",
+    "photo": "celular.png",
+    "category": "celular"
+  },
+  {
+    "id": "624b051f27c2088d28272af7",
+    "title": "Samsung otra prueba",
+    "price": 30000,
+    "description": "Celular Copado prueba",
+    "photo": "celular.png",
+    "category": "celular"
+  },
+  {
+    "id": "624b051f27c2088d28272af7",
+    "title": "Samsung otra prueba",
+    "price": 30000,
+    "description": "Celular Copado prueba",
+    "photo": "celular.png",
+    "category": "celular"
+  },
+  {
+    "id": "624b051f27c2088d28272af7",
+    "title": "Samsung otra prueba",
+    "price": 30000,
+    "description": "Celular Copado prueba 22",
+    "photo": "celular.png",
+    "category": "celular"
+  }
+]
